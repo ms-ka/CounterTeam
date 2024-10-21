@@ -6,16 +6,16 @@
 }
 #btnContainer{
   text-align: center;
-}
+
 .buttons{
-  padding: 10px 20px;
-  font-size: 1.5em;
-  color: white;
-  background-color: hsl(214, 100%, 74%);
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background-color 0.25s;
+    padding: 10px, 20px;
+    font-size: 1,5em;
+    color: rgb(250, 250, 250);
+    background-color: rgb(17, 94, 17, 50%);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0,25s;
 }
 .buttons:hover{
-  background-color:hsl(214, 100%, 56%);
+    background-color: bisque;
 }
