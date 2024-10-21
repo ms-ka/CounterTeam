@@ -1,12 +1,11 @@
-#counterLabel{
-    display: block;
-    text-align: center;
-    font-size: 10em;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+#countLabel{
+  display: block;
+  text-align: center;
+  font-size: 10em;
+  font-family: Arial, Helvetica;
 }
 #btnContainer{
-    text-align: center;
-}
+  text-align: center;
 
 .buttons{
     padding: 10px, 20px;
